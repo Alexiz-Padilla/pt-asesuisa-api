@@ -6,7 +6,7 @@ WEB API
 
 EJECUTAR NPM I 
 
-AGREGAR ARCHIVO .env A LA RAIZ DEL PROYECTO, DENTRO DEL ARCHIVO COLOCAR LAS SIGUIENTES VARIABLES DE ENTORNO:
+AGREGAR ARCHIVO `.env` A LA RAIZ DEL PROYECTO, DENTRO DEL ARCHIVO COLOCAR LAS SIGUIENTES VARIABLES DE ENTORNO:
 ```
 DB_PRODUCTION=mongodb+srv://user-asesuisa:zomboyAP11@asesuisaclt-h3xdb.azure.mongodb.net/asesuisadb?retryWrites=true&w=majority
 DB_DEV=mongodb+srv://user-asesuisa:zomboyAP11@asesuisaclt-h3xdb.azure.mongodb.net/asesuisadb?retryWrites=true&w=majority
