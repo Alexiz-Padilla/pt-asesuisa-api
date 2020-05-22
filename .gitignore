@@ -1,0 +1,14 @@
+# heavy directories
+node_modules
+accounts
+uploads
+
+# single files
+**/.DS_Store
+deploy.js
+.env
+package-lock.json
+
+# misc
+.vscode/
+*.DS_Store
